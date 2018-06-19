@@ -11,3 +11,8 @@ def age_reply
   puts "That's pretty old."
   
 end
+
+def location
+  puts "I know where that is!"
+  
+end
