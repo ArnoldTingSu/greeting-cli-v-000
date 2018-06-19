@@ -12,7 +12,7 @@ puts "How old are you?"
 
 age = gets.strip
 
-puts age_reply
+puts age_reply(age)
 
 puts "Where are you from?"
 
