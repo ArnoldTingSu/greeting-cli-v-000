@@ -14,4 +14,8 @@ age = gets.strip
 
 puts age_reply
 
-puts
+puts "Where are you from?"
+
+location = gets.strip
+
+puts location
