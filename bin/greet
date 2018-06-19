@@ -11,3 +11,5 @@ puts greeting(name)
 puts "How old are you?"
 
 age = gets.strip
+
+puts age_reply
