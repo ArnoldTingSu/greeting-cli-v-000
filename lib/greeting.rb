@@ -14,6 +14,6 @@ end
 
 
 def location_reply
-  puts "#{location_reply}, really? I know where that is!"
+  puts "#{location}, really? I know where that is!"
   
 end
