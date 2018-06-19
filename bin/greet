@@ -8,3 +8,6 @@ name = gets.strip
 
 puts greeting(name)
 
+puts "How old are you?"
+
+age = gets.strip
