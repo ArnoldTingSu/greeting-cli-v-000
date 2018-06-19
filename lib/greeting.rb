@@ -12,6 +12,7 @@ def age_reply
   
 end
 
+
 def location
   puts "I know where that is!"
   
