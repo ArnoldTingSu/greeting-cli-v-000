@@ -7,7 +7,7 @@ def greeting(name)
 end
 
 
-def age_reply
+def age_reply(age)
   puts "#{age}?That's pretty old."
   
 end
