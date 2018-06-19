@@ -13,7 +13,7 @@ def age_reply(age)
 end
 
 
-def location_reply
+def location_reply(location)
   puts "#{location}, really? I know where that is!"
   
 end
