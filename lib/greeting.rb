@@ -4,7 +4,8 @@
 def greeting(name)
   puts "Hello #{name}. It's nice to meet you."
   
-end
 
 def age_reply(age)
   puts "That's pretty old."
+  
+end
