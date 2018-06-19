@@ -6,6 +6,7 @@ def greeting(name)
   
 end
 
+
 def age_reply
   puts "That's pretty old."
   
