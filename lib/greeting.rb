@@ -8,4 +8,3 @@ def greeting(name)
 def age_reply(age)
   puts "That's pretty old."
   
-end
