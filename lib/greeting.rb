@@ -13,7 +13,7 @@ def age_reply
 end
 
 
-def location
+def location_reply
   puts "I know where that is!"
   
 end
