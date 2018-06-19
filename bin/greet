@@ -18,4 +18,5 @@ puts "Where are you from?"
 
 location = gets.strip
 
-puts location
+puts location_reply
+
