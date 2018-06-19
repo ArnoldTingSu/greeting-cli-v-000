@@ -8,7 +8,7 @@ end
 
 
 def age_reply(age)
-  puts "#{age}?That's pretty old."
+  puts "#{age}?! That's pretty old."
   
 end
 
